@@ -1,0 +1,66 @@
+a.delete:link,a.delete:visited,a.delete:active{
+    text-decoration: none;
+    color: white;
+    background-color: #D3150C;
+    margin: 10px auto;
+    text-align: center;
+    border: 2px solid #D3150C;
+    padding: 2px 7px;
+    width: 50px;
+    outline: none;
+    border-radius: 24px;
+}
+a.delete:hover{
+    color: white;
+    background-color: rgb(109, 15, 10);
+}
+a.nuevo:link,a.nuevo:visited,a.nuevo:active{
+    text-decoration: none;
+    color: white;
+    background-color: #959595;
+    margin: 10px auto;
+    text-align: center;
+    border: 2px solid #959595;
+    padding: 2px 7px;
+    width: 50px;
+    outline: none;
+    border-radius: 24px;
+}
+a.nuevo:hover{
+    color: white;
+    background-color: #545454;
+}
+a.update:link,a.update:visited,a.update:active{
+    text-decoration: none;
+    color: white;
+    background-color: #270CD3;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #270CD3;
+    padding: 2px 7px;
+    width: 50px;
+    outline: none;
+    border-radius: 24px;
+}
+a.update:hover{
+    color: white;
+    background-color: #4837B4;
+    text-decoration: none;
+}
+a.look:link,a.look:visited,a.look:active{
+    text-decoration: none;
+    color: white;
+    background-color: #0CD339;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #0CD339;
+    padding: 2px 7px;
+    width: 20px;
+    outline: none;
+    border-radius: 24px;
+}
+a.look:hover{
+    color: white;
+    background-color: #37B453;
+    text-decoration: none;
+}

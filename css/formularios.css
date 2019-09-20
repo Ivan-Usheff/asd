@@ -1,0 +1,30 @@
+#navform{
+  float:left; 
+  padding:5px;
+  top: 100px;
+  background-color:#e6e6e6;
+  width:400px;
+  font-family:helvetica;
+  font-size:16px;
+  font-weight:bold;
+  color:#DE7217;
+    display: left;
+}
+#navform ul li{
+    display: inline-block;
+}
+#inc{
+    display: block;
+}
+#cacc{
+    display: none;
+}
+#ppp{
+    display: none;
+}
+#mcc{
+    display: none;
+}
+#mtc{
+    display: none;
+}

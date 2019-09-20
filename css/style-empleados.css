@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.cont{
+    width: 800px;
+    position:absolute;
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%);
+}
+.datos{
+    width: 100%;
+    border-collapse: collapse;
+}
+.datos th, td{
+   padding: 5px;
+}
+.datos th{
+    background: #7A9279;
+    border-bottom: 1px solid black; 
+}
+.datos tr{
+    border-bottom: 1px solid black;
+}
+.datos tr:nth-child(odd) {
+    background: #7A9279;
+}
+.datos tr:hover{
+    background: #7D897C;
+}
